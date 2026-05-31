@@ -8,4 +8,5 @@ I also have a [GitLab](https://gitlab.com/JaanJah) account.
 
 ## Other links
 
+- [Codeberg](https://codeberg.org/jaan)
 - [StackOverflow](https://stackoverflow.com/users/11144073/jaan)
